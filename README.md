@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mingtindu Sherpa</h1>
 <h3 align="center">A passionate Node JS developer from Nepal</h3>
-<img src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg" alt="Girl in a jacket" width="500" height="600">
 
 - 🔭 I’m currently working on [ecommerce](https://github.com/Mingtindu/ecom.git)
 
