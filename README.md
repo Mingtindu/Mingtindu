@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mingtindu Sherpa</h1>
 <h3 align="center">A passionate Node JS developer from Nepal</h3>
 
-- 🔭 I’m currently working on [ecommerce](https://github.com/Mingtindu/ecom.git)
+- 🔭 I’m currently working on [ecommerce Project](https://github.com/Mingtindu/ecom.git)
 
 - 🌱 I’m currently learning **React Nodejs**
 
